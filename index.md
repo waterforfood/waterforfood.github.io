@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Water for Food GitHub Page
 
 You can use the [editor on GitHub](https://github.com/waterforfood/waterforfood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Water for Food
 ## Header 2
 ### Header 3
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](waterforfood.nebraska.edu) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
